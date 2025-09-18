@@ -1,0 +1,54 @@
+[
+  {
+    "phoneNumber": "202-555-0143",
+    "timeSent": "2025-07-18T08:45:00",
+    "message": "Hey, are we still meeting at 10?",
+    "characterCount": 35
+  },
+  {
+    "phoneNumber": "330-555-0199",
+    "timeSent": "2025-07-18T09:01:00",
+    "message": "Running late! Be there in 15 mins.",
+    "characterCount": 39
+  },
+  {
+    "phoneNumber": "646-555-0111",
+    "timeSent": "2025-07-18T09:15:00",
+    "message": "Just parked. Coming in now.",
+    "characterCount": 31
+  },
+  {
+    "phoneNumber": "415-555-0168",
+    "timeSent": "2025-07-18T09:30:00",
+    "message": "Don't forget to bring the documents.",
+    "characterCount": 42
+  },
+  {
+    "phoneNumber": "773-555-0175",
+    "timeSent": "2025-07-18T09:47:00",
+    "message": "On my way! 🚗💨",
+    "characterCount": 16
+  },
+  {
+    "phoneNumber": "718-555-0133",
+    "timeSent": "2025-07-18T10:00:00",
+    "message": "Meeting rescheduled to 2 PM. Let me know.",
+    "characterCount": 44
+  },
+  {
+    "phoneNumber": "503-555-0182",
+    "timeSent": "2025-07-18T10:15:00",
+    "message": "Thanks for the update! See you then.",
+    "characterCount": 40
+  },
+  {
+    "phoneNumber": "646-555-0111",
+    "timeSent": "2025-07-18T09:15:00",
+    "message": "Just parked. Coming in now.Just parked. Coming in now.Just parked. Coming in now.",
+    "characterCount": 31
+  }
+]
+
+
+
+

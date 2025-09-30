@@ -30,6 +30,11 @@ This will run the server on port 8000 and the client on port 5173.
 2. The messages sent so far are stored in a DB that the backend manages
 3. You're able to see the messages that were previously sent
 
+## Tech Specs
+- Scaffold Vite + React 
+- Express.js
+- PostgreSQL
+
 ## Not Yet Implemented 
 - Add sessions -  Only messages sent by the user's session ID cookie is visible when calling the listing API 
 - Sending an SMS should be done through 

@@ -45,7 +45,7 @@ function App() {
     <>
       <main>
         <h1 className="text-2xl font-bold text-black">
-          My MSM Messenger
+          My SMS Messenger
         </h1>
         <div className="container block md:flex md:gap-6 mt-15">
           <div className="form-container bg-[#f2e9e4] md:w-1/2 h-130 p-10">

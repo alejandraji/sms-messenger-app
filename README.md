@@ -3,7 +3,7 @@
 **MySMS Messenger** is a full stack web app allowing the end users to send SMS messages as well as displaying them.  
 
 ### Prerequisites
-Make sure you have Node v20.10 installed, which can be installed following these
+Make sure you have Node v20.17 installed, which can be installed following these
 [instructions](https://nodejs.org/en/download/package-manager).
 
 ### Quick start

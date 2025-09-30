@@ -1,5 +1,3 @@
-import dotenv from 'dotenv';
-dotenv.config();
 import express from "express";
 import db from './db.js';
 import bodyParser from 'body-parser';
@@ -35,13 +33,7 @@ app.post('/messages', async (req, res) => {
   try {
     const phoneNumber = req.body.phoneNumber;
     const message = req.body.message;
-    // wtf
     const result = await db.query(`INSERT INTO message (phone_number,message, time_sent) VALUES ('${phoneNumber}','${message}',CURRENT_TIMESTAMP) RETURNING *`);
-    console.log("result", result);
-    console.log("phone", phoneNumber);
-    console.log("msg", message);
-    // INSERT INTO cars (brand, model, year)
-    // VALUES ('Ford', 'Mustang', 1964);
     res.json(result.rows[0]);
   } catch (err) {
     console.error(err);
